@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+}
+ul{
+    margin-left: 350px;
+    font-style: oblique;
+    font-size: larger;
+}
+body{
+    background-color: lightpink;
+}
+h1{
+    color:darkblue;
+}
+h2{
+    color:darkblue;
+}
